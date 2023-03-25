@@ -20,7 +20,7 @@ const Sidebar = () => {
           >
             <img
               className="img-fluid rounded-pill d-block"
-              src="./imgs/fotor_2023-3-19_17_10_19.png"
+              src="./imgs/fotor_2023-3-25_4_55_52.png"
               title="I'm Davronbek"
               alt="profile"
             />
