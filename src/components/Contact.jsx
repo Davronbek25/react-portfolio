@@ -62,7 +62,7 @@ const Contact = () => {
         <div className="row d-flex justify-content-center gx-5">
           <div className="col-md-8 col-xl-9">
             <h2 className="mb-3 text-5 text-uppercase text-center text-md-start text-white">
-              Send us a note
+              Send me a note
             </h2>
             <form
               className="form-dark"

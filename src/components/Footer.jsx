@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="row">
                 <div className="col-lg-6 text-center text-lg-start">
                     <p className="mb-3 mb-lg-0 footer-copyright">
-                        Copyright © 2023
+                        Copyright © 2024
                         <a href="#home" className='fw-500'> Davronbek </a>
                         . All Rights Reserved.
                     </p>

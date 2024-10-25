@@ -15,7 +15,20 @@ const Resume = () => {
         </div>
         <div className="row gx-5">
           <div className="col-md-6">
-            <h2 className="text-6 fw-600 mb-4 text-white">My Education</h2>
+            <h2 className="text-6 fw-600 mb-4 text-white">
+              My Education(Uzbekistan)
+            </h2>
+            <div className="rounded p-4 mb-4 bg-dark">
+              <p className="badge bg-primary text-2 fw-400">2011 - 2016</p>
+              <h3 className="text-5 text-white">Exact Sciences</h3>
+              <p className="text-primary">Fourth Specialized Boarding School</p>
+              <p className="mb-0 text-white-50">
+                Advanced education in mathematics, physics, and computer science
+                for highly motivated students. With access to experienced
+                faculty and state-of-the-art labs, students engage deeply in
+                theoretical and practical STEM learning.
+              </p>
+            </div>
             <div className="rounded p-4 mb-4 bg-dark">
               <p className="badge bg-primary text-2 fw-400">2016 - 2019</p>
               <h3 className="text-5 text-white">Automation</h3>
@@ -27,8 +40,13 @@ const Resume = () => {
                 instruments and automation.
               </p>
             </div>
+          </div>
+          <div className="col-md-6">
+            <h2 className="text-6 fw-600 mb-4 text-white">
+              My Education(Italy)
+            </h2>
             <div className="rounded p-4 mb-4 bg-dark">
-              <p className="badge bg-primary text-2 fw-400">2019 - Present</p>
+              <p className="badge bg-primary text-2 fw-400">2019 - 2023</p>
               <h3 className="text-5 text-white">Engineering Sciences</h3>
               <p className="text-primary">University of Rome Tor Vergata</p>
               <p className="mb-0 text-white-50">
@@ -38,26 +56,15 @@ const Resume = () => {
                 internships.
               </p>
             </div>
-          </div>
-          <div className="col-md-6">
-            <h2 className="text-6 fw-600 mb-4 text-white">My Experience</h2>
             <div className="rounded p-4 mb-4 bg-dark">
-              <p className="badge bg-primary text-2 fw-400">2020 - 2021</p>
-              <h3 className="text-5 text-white">Intern</h3>
-              <p className="text-primary">EPAM Systems</p>
+              <p className="badge bg-primary text-2 fw-400">2024 - Present</p>
+              <h3 className="text-5 text-white">Computer Science</h3>
+              <p className="text-primary">University of Genova</p>
               <p className="mb-0 text-white-50">
-                I worked on developing and designing user interfaces for
-                web-based applications, using technologies such as HTML, CSS,
-                and JavaScript.
-              </p>
-            </div>
-            <div className="rounded p-4 mb-4 bg-dark">
-              <p className="badge bg-primary text-2 fw-400">2021 - 2022</p>
-              <h3 className="text-5 text-white">Front-End Developer</h3>
-              <p className="text-primary">LeverX</p>
-              <p className="mb-0 text-white-50">
-                Built 20 interactive, single page React apps that could scale
-                with both increase in interaction complexity and volume.
+                Advanced program that builds on foundational knowledge to deepen
+                expertise in areas such as algorithms, data structures, machine
+                learning, artificial intelligence, software engineering, and
+                cybersecurity.
               </p>
             </div>
           </div>
@@ -162,10 +169,15 @@ const Resume = () => {
           </div>
         </div>
         <div className="text-center mt-5">
-          <a href="./imgs/dave_cv.pdf" target="_blank" download className="btn btn-outline-secondary rounded-pill shadow-none">
+          <a
+            href="./imgs/dave_cv.pdf"
+            target="_blank"
+            download
+            className="btn btn-outline-secondary rounded-pill shadow-none"
+          >
             Download CV
             <span className="ms-1">
-                <i className="fas fa-download"></i>
+              <i className="fas fa-download"></i>
             </span>
           </a>
         </div>

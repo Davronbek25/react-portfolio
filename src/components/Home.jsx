@@ -37,7 +37,7 @@ const Home = ({ description }) => {
                     <span className="typeWriter-cursor">|</span>
                   </div>
                 </h2>
-                <p className="text-5 text-light mb-4">based in Rome, Italy.</p>
+                <p className="text-5 text-light mb-4">based in Genova, Italy.</p>
                 <a
                   href="#contact"
                   className="btn btn-outline-primary rounded-pill shadow-none smooth-scroll mt-2"
