@@ -16,9 +16,9 @@ const Portfolio = () => {
 
   const projectsData = [
     {
-      title: "Spotify homepage",
-      live: 'https://spotifyning-kloni.netlify.app/',
-      github: 'https://github.com/Davronbek25/react-spotify',
+      title: "Vibez homepage",
+      live: 'https://react-vibez.netlify.app/',
+      github: 'https://github.com/Davronbek25/react-vibez',
       thumbImage: "./imgs/2023-03-16.png",
       categories: [filters.HARD],
     },
@@ -30,9 +30,9 @@ const Portfolio = () => {
       categories: [filters.MEDIUM],
     },
     {
-      title: "GOG.com clone",
-      live: 'https://gog-kloni.netlify.app/',
-      github: 'https://github.com/Davronbek25/B2-K10',
+      title: "Gaming website",
+      live: 'https://gamin-website.netlify.app/',
+      github: 'https://github.com/Davronbek25/gaming-website',
       thumbImage: "./imgs/2023-03-16 (9).png",
       categories: [filters.MEDIUM],
     },

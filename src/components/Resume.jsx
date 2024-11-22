@@ -36,8 +36,11 @@ const Resume = () => {
                 Electro Technical Professional College
               </p>
               <p className="mb-0 text-white-50">
-                The main objective of the program is to teach control measuring
-                instruments and automation.
+                The primary objective of the program is to provide comprehensive
+                training on control measuring instruments and automation
+                systems. By the end of the program, participants will have a
+                solid understanding of industry-standard tools and technologies
+                used to enhance efficiency and precision in automated processes.
               </p>
             </div>
           </div>
@@ -55,6 +58,14 @@ const Resume = () => {
                 experience through laboratory work, design projects, and
                 internships.
               </p>
+              <a
+                class="btn btn-primary mt-2 p-2"
+                href="https://engineering-sciences.uniroma2.it/"
+                target="_blank"
+                role="button"
+              >
+                Know More
+              </a>
             </div>
             <div className="rounded p-4 mb-4 bg-dark">
               <p className="badge bg-primary text-2 fw-400">2024 - Present</p>
@@ -66,6 +77,14 @@ const Resume = () => {
                 learning, artificial intelligence, software engineering, and
                 cybersecurity.
               </p>
+              <a
+                class="btn btn-primary mt-2 p-2"
+                href="https://corsi.unige.it/en/corsi/10852"
+                target="_blank"
+                role="button"
+              >
+                Know More
+              </a>
             </div>
           </div>
         </div>
