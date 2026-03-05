@@ -55,7 +55,7 @@ const About = () => {
                         Genova, Italy
                     </li>
                 </ul>
-                <a href="./imgs/dave_cv.pdf" target="_blank" className="btn btn-primary rounded-pill"> 
+                <a href="./imgs/CV_software_engineering.pdf" target="_blank" className="btn btn-primary rounded-pill"> 
                     View CV
                 </a>
             </div>
