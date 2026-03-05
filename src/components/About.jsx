@@ -48,7 +48,7 @@ const About = () => {
                     </li>
                     <li>
                         <span className="fw-600 me-2">Age:</span>
-                        23
+                        25
                     </li>
                     <li className="border-0">
                         <span className="fw-600 me-2">From:</span>
