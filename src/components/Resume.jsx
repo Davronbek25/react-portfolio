@@ -189,7 +189,7 @@ const Resume = () => {
         </div>
         <div className="text-center mt-5">
           <a
-            href="./imgs/dave_cv.pdf"
+            href="./imgs/CV_software_engineering.pdf"
             target="_blank"
             download
             className="btn btn-outline-secondary rounded-pill shadow-none"
